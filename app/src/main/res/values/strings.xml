@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActividadEnviarDatos</string>
+    <string name="txtpara">Para</string>
+    <string name="txtAsunto">Ingrese el asunto</string>
+    <string name="txtmensaje">Ingrese el mensaje</string>
+    <string name="button">Enviar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="about">Esta App Fue completamente desarrollada por: MELVIN JOSUE PEREIRA AMAYA</string>
+</resources>
